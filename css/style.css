@@ -772,7 +772,9 @@ ol {
 /**============================**/
 
 /**============== BACKDROP ==============**/
-
+.modal-field-checkbox {
+  margin-bottom: 24px;
+}
 .check-text {
   color: #8e8f99;
   font-family: Roboto;
@@ -794,12 +796,4 @@ ol {
   line-height: 1.3;
   letter-spacing: 0.04em;
   text-decoration-line: underline;
-}
-.check-text-box {
-  width: 20px;
-  height: 20px;
-  stroke-width: 1px;
-  stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.4));
-  border: 1px solid;
-  border-color: #000;
 }
