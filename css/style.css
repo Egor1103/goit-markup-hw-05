@@ -643,7 +643,14 @@ ol {
   background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
+  /*transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);*/
 }
+/*  
+.label-footer-btn:hover,
+.label-footer-btn:focus {
+  background-color: #404bbf;
+} 
+*/
 .svg-footer-btn {
   margin-left: 16px;
   fill: #ffffff;
@@ -888,3 +895,9 @@ ol {
 .checkbox-link {
   color: #4d5ae5;
 }
+
+/**============================**/
+
+/**============== @@@MEDIA@@@ ==============**/
+
+/**============================**/
